@@ -1,20 +1,20 @@
-# Home page description diagram
+# Category page description diagram
 
 ## 1. High
 
-- Link to list of volcanoes
-- Hero presentation of random, special volcano
-- Overview of what classifies a volcano
-- Search
+- Types of Genes
+- Building blocks
+- Inherited Genes
+- Gene Engineering
 
 ## 2. Medium
 
-- Website branding, logo
-- Primary navigation
-- Volcanoes that are currently erupting
+- My Family Tree
+- Games
+- Applications
 
 ## 3. Low
 
-- E-mail newsletter
-- Social media links
-- Footer: Copyright and policies
+- Learn more!
+- Help Contribute to Gene science
+- Footer: Sources and links
