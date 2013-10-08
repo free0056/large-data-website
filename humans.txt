@@ -1,0 +1,30 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1187\cocoasubrtf390
+{\fonttbl\f0\fmodern\fcharset0 Courier;\f1\fmodern\fcharset0 Courier-Bold;}
+{\colortbl;\red255\green255\blue255;\red221\green53\blue11;}
+\margl1440\margr1440\vieww12540\viewh15340\viewkind1
+\deftab720
+\pard\tx566\pardeftab720\sl300
+
+\f0\fs26 \cf0 \
+
+\fs24                             \
+\pard\tx566\pardeftab720\sl300
+\cf0 /* TEAM */\
+\pard\tx566\pardeftab720\sl300\qj
+\cf0                             \
+Your title: 
+\f1\b \cf2 Your name.
+\f0\b0 \cf0 \
+                            \
+Site: 
+\f1\b \cf2 email, link to a contact form, etc.
+\f0\b0 \cf0 \
+                           \
+Twitter: 
+\f1\b \cf2 your Twitter username.
+\f0\b0 \cf0 \
+                            \
+Location: 
+\f1\b \cf2 City, Country.
+\f0\b0 \cf0 \
+}
