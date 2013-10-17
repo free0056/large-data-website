@@ -2,7 +2,7 @@
 	<head>
 		<meta charset="UTF-8">
 		<title>Genetics! - Tour Genetics and learn more about you!</title>
-		<link href="css/general.css" rel="stylesheet">
+		<link href="{{site.baseurl}}/css/general.css" rel="stylesheet">
 		<meta name="handheldfriendly" content="true">
 		<meta name="mobileoptimised" content="240">
 		<meta name="viewport" content="width=device-width,initial-scale=1,target-densitydpi=device-dpi">
@@ -22,13 +22,7 @@ if the description isnt good enough google will choose one for you -->
 
 	<header class="masthead clearfix">
 		<p class="titlecontent">Genetics</p>
-			<nav class="nav nav-top" data-state="collapsed">
-				<ul>
-					<li><a href="{{site.baseurl}}/index.html">Home</a></li>
-					<li><a href="{{site.baseurl}}/traits.html">Traits</a></li>
-					<li><a href="{{site.baseurl}}/life.html">Life</a></li>			
-				</ul>
-			</nav>
+		{% include nav.html %}
 	</header>
 
 
