@@ -21,8 +21,22 @@ layout: default
 		<!-- description in the href should be appropriate to the page being linked too -->
 		</div>
 
+
+		<ul class="traits">
+			{% for post in site.categories.new-discoveries limit:2 %}
+				<li>
+					<a href="">{{post.title}}</a>
+					<p>{{post.meta}}</p>
+				</li>
+			{% endfor %}
+		</ul>
+		
+	<footer>
+		<p class="top-link"><a href="#top">Top</a></p>
+	</footer>
+
 	</body>
-	</div>
+	
 		
 
 </html>

@@ -1,9 +1,9 @@
 ---
-layout: news
+layout: news-article
 title: New connections found within genes to determine eye color
 meta: Eye color determined by genetics
 source: http://genetics.thetech.org/online-exhibits/what-color-eyes-will-your-children-have
-category: news
+category: traits
 ---
 
 Eye color determined by genetics!
