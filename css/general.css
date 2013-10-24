@@ -23,7 +23,10 @@ html {
 body {
 	margin: 0;
 	padding: 0 10px;
+	height: 100%
 }
+
+
 
 h1{
 	font-family:Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
@@ -54,7 +57,8 @@ font-family:Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman
 
 .main-content {
 	background-color:#2C2C2C;
-	padding-bottom:20em;
+	padding-top: 5em;
+	padding-bottom:5em;
 	color:#9E9E9E;
 	opacity:0.9;
 	font-size: 0.75rem;
@@ -68,13 +72,6 @@ font-family:Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman
 	
 }
 
-body p {
-	
-	padding: 4% 12%;
-	text-align:left;
-	font-size: 0.75rem;
-	
-}
 
 .traits {
 	
@@ -328,14 +325,6 @@ nav .selected {
 	display:block;
 }
 
-footer {
-	background-color:#000;
-	padding: 0% 0% 1% 1%;
-	width: 100%;
-	position: fixed;
-	bottom: 0;
-	opacity: .8;
-}
 
 footer p {
 	color: #fff;

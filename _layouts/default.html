@@ -3,22 +3,28 @@
 		<meta charset="UTF-8">
 		<title>Genetics! - Tour Genetics and learn more about you!</title>
 		<link href="{{site.baseurl}}/css/general.css" rel="stylesheet">
+		<link href="{{site.baseurl}}/css/bootstrap.css" rel="stylesheet">
+		<link rel="stylesheet" href="sticky.css" />
+		<link href="{{site.baseurl}}/css/style.css" rel="stylesheet">
 		<meta name="handheldfriendly" content="true">
 		<meta name="mobileoptimised" content="240">
 		<meta name="viewport" content="width=device-width,initial-scale=1,target-densitydpi=device-dpi">
 		<!-- 
 		Home page title
 		1. Name of website
-		2.small descriotion
+		2. small description
 		3. city, country if applicable
 		-->
 		<meta name="description" content="Genes make us who we are; Take a tour of genetics and learn how important they are when trying to understand who we are!">
+
+		<!-- the meta description may show up as the search result description if google deems it worthy, every age should have a unique meta description.
+		if the description isnt good enough google will choose one for you -->
 
 		<meta property="og:type" content="Genes make us who we are!">
         <meta property="og:title" content="Genetics! - Tour Genetics and learn more about you!">
         <meta property="og:url" content="http://free0056.github.io/large-data-website/">
         <meta property="og:image" content="http://free0056.github.io/large-data-website/images/gene.jpg">
-        <meta property="og:site_name" content="Name of your website">
+        <meta property="og:site_name" content="Genetics!">
         <meta property="og:description" content="Genes make us who we are; Take a tour of genetics and learn how important they are when trying to understand who we are!">
 
 		<meta name="twitter:card" content="Genes make us who we are; Take a tour of genetics and learn how important they are when trying to understand who we are!">
@@ -28,19 +34,37 @@
         <meta name="twitter:image" content="http://free0056.github.io/large-data-website/images/gene.jpg">
 	</head>
 
-<!-- the meta description may show up as the search result description if google deems it worthy, every age should have a unique meta description.
-if the description isnt good enough google will choose one for you -->
+
 
 <body>
+			<div class="navbar navbar-fixed-top">
+			<div class="navbar-inner">
+				<div class="container">
+					<p class="titlecontent">Genetics</p>
+					{% include nav.html %}
+				</div>
+			</div>
+		</div>	
+	
+		      	<div class="span12">
+		       		{{content}}
+	        	</div>
 
-	<header class="masthead clearfix">
-		<p class="titlecontent">Genetics</p>
-		{% include nav.html %}
-	</header>
+		      <div class="push"></div>
+ 
+		 <div class="navbar navbar-fixed-bottom">
+			<div class="navbar-inner">
+				<footer class=".modal-footer .btn + .btn">
+					<p class="top-link"><a href="#top">Top</a></p>
+				</footer>
+			</div>
+		</div>
+
+		  </div>
+		</div>
 
 
 
-{{content}}
 
 
 </body>	
