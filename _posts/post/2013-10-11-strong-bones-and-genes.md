@@ -1,6 +1,6 @@
 ---
 layout: news-article
-title: New connections found within genes to determine eye color
+title: Plant Sterols prove to be better cholesterol in Alzheimer`s disease
 meta: Eye color determined by genetics
 source: http://genetics.thetech.org/online-exhibits/what-color-eyes-will-your-children-have
 category: traits

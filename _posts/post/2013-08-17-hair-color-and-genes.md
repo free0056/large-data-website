@@ -1,7 +1,7 @@
 ---
 layout: news-article
-title: New connections found within genes to determine eye color
-meta: Eye color determined by genetics
+title: Scientists develop new drug to treat 
+meta: Scientists have developed a new drug (RPL554) that could treat obstructive airway diseases
 source: http://genetics.thetech.org/online-exhibits/what-color-eyes-will-your-children-have
 category: traits
 ---

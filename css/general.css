@@ -55,15 +55,7 @@ font-family:Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman
 	float: right;
 }
 
-.main-content {
-	background-color:#2C2C2C;
-	padding-top: 5em;
-	padding-bottom:5em;
-	color:#9E9E9E;
-	opacity:0.9;
-	font-size: 0.75rem;
-	
-}
+
 
 .main-content p {
 	padding: 4% 12%;
@@ -247,21 +239,14 @@ nav .selected {
 	.masthead {
 		float: right;
 		width: 15%;
-		height: 1500px;
-		background-color:#000;
 	}
 	
 	.main-content {
 		float: left;
 		width: 85%;
-		height: 1500px;
 		
 	}
-	.main-content p {
-		padding: 4% 12%;
-		
-	}
-	
+
 	.nav-btn {
 		display:none;
 	}

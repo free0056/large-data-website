@@ -1,0 +1,27 @@
+@charset "UTF-8";
+/* CSS Document */
+html {
+	margain: 0;
+	padding: 0;
+	font: normal 100%/1.4 "Georgia", sans-serif;
+}
+
+p{ 
+	margain: 0 0 1.4em;
+	padding: 0;
+}
+
+ul{
+	margain: margain: 0 0 1.4em;
+}
+
+.image-replacement,
+.ir {
+	text-indent: 100%;
+	overflow: hidden;
+	white-space: nowrap;
+}
+	
+
+
+
