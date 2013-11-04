@@ -3,8 +3,8 @@ layout: default
 ---
 
 <h1> Genomics pioneer Craig Venter warns about biohacker boo-boos </h1>
-				<div class="unit unit-s-1 unit-m-1-2 main-content">
-							<p>In his latest book, genetic guru J. Craig Venter envisions a brave new world where DNA can be teleported between planets and where custom-made bacteria produce drugs, food and biofuel — but he also worries that do-it-yourself biohackers could spoil that vision.</p>
+				<div class="main-content well-small">
+							<p><strong>In his latest book, genetic guru J. Craig Venter envisions a brave new world</strong>where DNA can be teleported between planets and where custom-made bacteria produce drugs, food and biofuel — but he also worries that do-it-yourself biohackers could spoil that vision.</p>
 
 <p>"One of the concerns that I address in my book is this new emergence of do-it-at-home biology," Venter told NBC News. "One important part of scientific training is that scientists learn the boundaries, the safety issues, how to properly deal with and dispose of chemicals and reagents.</p>
 
@@ -18,7 +18,8 @@ layout: default
 							</p>
 					</div>
 <ul>
-	{% for post in site.posts limit: 2 %}
+	<h4>NEWS</h4>
+	{% for post in site.posts limit: 4 %}
 		<li>
 			<a href="{{site.baseurl}}{{post.url}}">{{post.title}}</a>
 			<p>{{post.meta}}</p>

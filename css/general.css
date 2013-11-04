@@ -14,8 +14,9 @@ html {
 	background-color:#E7EBD1;
 	margin: 0;
 	padding: 0;
-	background-position:center center;
-	background-size: 50%;
+	background-image:url('../images/wallpaper-on-genetics.jpg') no-repeat center center fixed ;
+  	-moz-background-size: cover;
+  	background-size: cover;
 	font: normal 100%/1.5 sans-serif;
 	font-family: 'Monda', serif;
 }
@@ -44,7 +45,7 @@ font-family:Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman
 }
 
 .current {
-	background-color: #E7EBD1;
+	background-color: #535668;
 	color: #fff;
 }
 
@@ -67,7 +68,6 @@ font-family:Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman
 
 .traits {
 	
-	padding-bottom:20%;
 	font-size: 0.75rem;
 	float: left;
 	

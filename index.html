@@ -17,9 +17,9 @@ layout: default
 	-->
 		<div class="main-content">
 	
-			<p><strong>Genes</strong> are the <em>building blocks of life</em>. They are the things that give us the traits we love and hate about ourselves; but not only that, they predispose us to all kinds of medical conditions good and bad. This site takes you on a tour of what genetics are all about how important they are when trying to understand who we are!</p>
+			<p><h4><strong>Genes</strong> are the <em>building blocks of life</em>.</h4> They are the things that give us the traits we love and hate about ourselves; but not only that, they predispose us to all kinds of medical conditions good and bad. This site takes you on a tour of what genetics are all about how important they are when trying to understand who we are!</p>
 			
-			<img src="../images/gene.jpg" alt="Photo of DNA">
+			<img src="../images/gene.jpg" alt="Photo of DNA" class="img-size thumbnail">
 			
 			<a href="file:///Macintosh HD/Users/robertfreeman/Desktop/inside_page.html">Genes are the Building blocks of Life</a>
 		<!-- description in the href should be appropriate to the page being linked too -->
@@ -27,15 +27,16 @@ layout: default
 
 
 		<ul class="traits">
-			{% for post in site.categories.new-discoveries limit:2 %}
+			{% for post in site.posts limit:6 %}
 				<li>
 					<a href="">{{post.title}}</a>
 					<p>{{post.meta}}</p>
 				</li>
 			{% endfor %}
 		</ul>
-		
-		
+		<div class="well-small">
+			<img src="../images/genetic-counseling.jpg" alt="Photo of DNA" class="img-size2 thumbnail caption">
+		</div>
 	</body>
 	
 		
