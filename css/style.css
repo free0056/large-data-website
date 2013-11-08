@@ -31,6 +31,11 @@
 	
 }
 
+.navbar .nav .active > a:focus{
+	background: none;
+	color:#999;
+}
+
 .style1 {
 	background-image:url(../../../../../../../Documents/robgraphic.com/parta.jpg);
 	margin: 0;

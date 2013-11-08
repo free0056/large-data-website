@@ -234,7 +234,7 @@ body {
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 14px;
   line-height: 20px;
-  color: #333333;
+  color: #686875;
  
 }
 
@@ -280,6 +280,10 @@ a:focus {
 .img-size2 {
   max-height: 300px;
   max-width: 300px;
+
+}
+.img-size3 {
+  max-width: 55%;
 
 }
 
@@ -6196,6 +6200,8 @@ a.badge:focus {
 .unit {
   float: left;
   width: 33.3333%;
+  max-width: 300px;
+  min-width: 250px;
 }
 
 .unit-spacer {
@@ -6259,7 +6265,7 @@ body {
 
 footer {
   background-color: #2d3538;
-  padding: 1% 2% 2% 2%;
+  padding: 0.5% 2% 2% 2%;
   width: 100%;
  
   bottom: 0;
@@ -6298,5 +6304,14 @@ h2 {
     .unit-l-1-3 {
       width: 33.3333%;
     }
+}
+
+.offscreen {
+position:absolute;
+left:-10000px;
+top:auto;
+width:1px;
+height:1px;
+overflow:hidden;
 }
 

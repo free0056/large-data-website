@@ -1,0 +1,10 @@
+---
+layout: news-article
+title: Non-Genetic Inheritance and Changing Environments
+meta:  In the last two decades climate change emerged as a momentous threat to ecosystems and species, calling for - politics aside - a greater interest in the adaptation abilities of the world’s ... > full story
+source: http://genetics.thetech.org/online-exhibits/what-color-eyes-will-your-children-have
+category: traits
+---
+
+Until recently, biological information was thought to be transmitted across generations by DNA sequencing alone. Furthermore, adaptation to the environment was thought to only occur with Darwin's mechanism of rare mutations of the DNA that are selected for the reproductive advantage that they provide. However, scientists are now paying increased attention to non-DNA factors that are inherited and can actually help offspring adapt to their environment. An article published last week in Non-Genetic Inheritance -- an open access journal by Versita, brings attention to this new mode of inheritance. The authors refer to a process called Transgenerational plasticity (TGP). Plasticity is a term used to describe how an organism changes its phenotype (e.g. morphology, physiology or behaviour) to adapt to its environment. For example, some animals become more hairy when bred in cold conditions. Transgenerational plasticity refers to offspring developing the adaptations, when the parents experience the environment.
+An international group of scientists led by Dr. Santiago Salinas from the University of California Santa Cruz, highlight the potential importance of non-genetic inheritance in an area of increasing public concern. Although non-genetic inheritance is still a poorly understood factor in population responses to rapid environmental change, the scientists succeed in presenting accumulated evidence to indicate that animals and plants are using a new method to adapt to changes in the environment.

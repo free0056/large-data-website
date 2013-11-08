@@ -1,0 +1,15 @@
+---
+layout: news-article
+title: Did Inefficient Cellular Machinery Evolve to Fight Viruses and Jumping Genes?
+meta: It might seem obvious that humans are elegant and sophisticated beings in comparison to lowly bacteria, but when it comes to genes, a UC San Francisco scientist wants to turn conventional wisdom about human and bacterial evolution on its head.
+source: http://www.sciencedaily.com/releases/2013/11/131107123047.htm
+category: traits
+---
+
+Far from being sleekly performing and fine-tuned athletes, the molecules guiding the activity of our genes are like sour bureaucrats that clog up the works and create unnecessary inefficiency, asserts Hiten Madhani, MD, PhD, a professor of biochemistry and biophysics at UCSF. In contrast, bacteria carry out these processes efficiently with less frustration for the gene to express itself.
+Madhani presented his viewpoint in an essay entitled "The Frustrated Gene: Origins of Eukaryotic Gene Expression," published online November 7, 2013 in the journal Cell.
+Although his thinking was stimulated by his own research findings, Madhani described his Cell essay as a "just so" story, a conjecture that challenges conventional thinking, but that so far is without data to back it up. He paraphrased a source of inspiration, the renowned scientist Sydney Brenner, who won a Nobel Prize for his own studies of gene regulation. "Biology is awash in a sea of data, but it needs new theories," Madhani said.
+Most scientists believe that the complexity of the molecular mechanisms that guide the expression of genes and the production of proteins within a human cell is needed to allow for flexible responses that drive the development and maintenance of multifaceted organism, Madhani said.
+But he proposes that this complexity in genetic regulatory machinery did not originally evolve to allow for the development of the whole human. Instead, he suggested, complexity in gene expression might have first evolved in early eukaryotes to thwart infection by "parasitic DNA," such as retroviruses, that would otherwise invade the cell nucleus and disrupt normal genes.
+In contrast to humans, bacteria control their genes and have adaptively evolved in myriad ways without complex mechanisms like those that guide human gene expression. In fact, humans, whose cells number in the many trillions, and disease-causing bacteria, which are but a single cell, have been doing battle and evolving together for ages, with multidrug-resistant bacteria perhaps being latest type of villain to emerge in this epic struggle.
+Bacteria have persisted despite their simplicity. They have only one gene-bearing chromosome and lack any kind of cell nucleus. The bacterial chromosome itself lacks the modifiable, protective sheath known as chromatin. Many other details of gene expression differ between human and bacterial cells. Bacteria are known as "prokaryotes," a name that refers to the fact that they arose before cells evolved that had a nucleus -- more than 3 billion years ago, according to some estimates made from fossils. Human cells have a nucleus and numerous other features that peg them as "eukaryotes."

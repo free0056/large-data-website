@@ -1,0 +1,11 @@
+---
+layout: news-article
+title: New Treatment for African Sleeping Sickness Comes Closer
+meta: Researchers at Umeå University have identified drugs targeting infections of the parasite Trypanosoma brucei and are thereby well on the way to find a cure against African sleeping sickness. This is the kernel of a thesis, which will be publicly defended on 8 November 2013.
+source: http://genetics.thetech.org/online-exhibits/what-color-eyes-will-your-children-have
+category: traits
+---
+
+African sleeping sickness (Human African trypanosomiasis) is caused by a parasite called Trypanosoma brucei. As the name of the disease indicates, it is associated with sleep disturbances but there are many other neurological complications as well. Unless the patient is treated, the illness develops in stages and leads eventually to unconsciousness and death. At present, there is no vaccine available and the medicines that exist are either very toxic or do not work effectively against all variants of the disease.
+All cells have the potential to renew themselves infinitely through cell division. During cell division, the cell replicates its DNA, which constitutes the individual's genetic material, and then allows the DNA copy to pass on to the daughter cell. During this process, there is a need for a continuous supply of four different building blocks for DNA, i.e. dATP, dCTP, dTTP and dGTP. In human cells, these DNA building blocks can either be produced by the cells themselves, or absorbed in the form of so-called precursor molecules (deoxynucleosides) that are present in the blood and other body fluids.
+It has already been observed that the parasite's production of RNA building blocks, which resemble DNA building blocks, could be a target for drug discovery whereas the parasite's production of DNA building blocks has not been studied to the same extent. Munender Vodnala from the Department of Medical Biochemistry and Biophysics has therefore focused his study on the cellular machinery involved in the production of DNA building blocks from precursor molecules. This is considered to be a promising target for drug development against the parasite.
