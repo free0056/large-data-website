@@ -19,14 +19,13 @@ layout: default
 			
 			<img src="../images/gene.jpg" alt="Photo of DNA" class="img-size thumbnail">
 			
-			<a href="file:///Macintosh HD/Users/robertfreeman/Desktop/inside_page.html">Genes are the Building blocks of Life</a>
-		<!-- description in the href should be appropriate to the page being linked too -->
+			
 		</div>
 
 
 		<ul class="traits">
 			<h3>NEWS</h3>
-			{% for post in site.posts limit:6 %}
+			{% for post in site.posts limit:7 %}
 				<li>
 					<a href="{{site.baseurl}}{{post.url}}">{{post.title}}</a>
 					<p>{{post.meta}}</p>
