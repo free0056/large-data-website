@@ -266,8 +266,8 @@ a:focus {
 }
 
 .img-size {
-  max-height: 900px;
-  max-width: 900px;
+  max-height: 700px;
+  max-width: 700px;
   padding: 7%;
 }
 
@@ -6231,7 +6231,7 @@ a.badge:focus {
 }
 
 .main-content {
-  max-width: 800px;
+  max-width: 700px;
   padding-bottom:5em;
   color:#9E9E9E;
   opacity:0.9;
